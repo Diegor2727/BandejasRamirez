@@ -56,11 +56,11 @@ h1{
 
 .animacion{
     animation-duration: 1s;
-    animation-name: aparecer;
+    animation-name: aparece;
     animation-iteration-count: infinite;
 }
 
-@keyframes aparecer {
+@keyframes aparece {
     0% {
         opacity: 0;
     }
