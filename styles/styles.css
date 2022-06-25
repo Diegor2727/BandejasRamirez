@@ -27,6 +27,9 @@
         grid-area: header;
          }
          
+        
+
+
 .contenedor nav {
             grid-column: 2 / 4;
             grid-area: nav;
