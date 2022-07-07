@@ -1,11 +1,31 @@
+.contenedorbotones {
+  gap: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+@media (min-width: 768px) {
+  .contenedorbotones {
+    flex-direction: row;
+    gap: 1.5rem;
+  }
+}
+
 button, .restablecer, .enviar {
   border: none;
   border-radius: 0.375rem;
   padding: 0.375rem 0.75rem;
 }
 
+.enviar {
+  background-color: grey;
+  color: white;
+}
+
 .restablecer {
   background-color: aquamarine;
+  color: blue;
 }
 
 body {

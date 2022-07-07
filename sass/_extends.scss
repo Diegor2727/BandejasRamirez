@@ -1,15 +1,32 @@
+.contenedorbotones{
+    gap: 0.5rem ;
+    @include flexcenter;
+    flex-direction: column;
+
+    @include tablet{
+        flex-direction: row;
+        gap: 1.5rem ;
+    }
+    
+
+}
+
 button{    
     border: none;
     border-radius: 0.375rem; 
-    padding: 0.375rem 0.75rem;  
+    padding: 0.375rem 0.75rem; 
+
+    
 }
 
 .enviar{
     @extend button;
-    
+    background-color: grey;
+    color: white;
 }   
 
 .restablecer{
     @extend button;
     background-color: aquamarine;
+    color: blue;
 }
