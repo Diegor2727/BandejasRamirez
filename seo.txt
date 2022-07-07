@@ -1,0 +1,5 @@
+En el archivo index.html sumé el SEO con las siguientes características:
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: “Bandejas de desayuno, brindis, cajas de madera. Personalizado, pintado y decorado a mano."
+
+Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "bandejas, desayuno, golosinas, vino, copa, regalo, dia de los enamorados, cumpleaños"
+Encabezado: para el encabezado del h1 utilicé el texto “Mi Arte Te”
