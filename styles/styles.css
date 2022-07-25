@@ -113,14 +113,9 @@ section div a img {
 }
 
 
-
-
-.logo{
-    background-image: url("../assets/logo.jpg");
-    width: 9.375rem;
-    height: 9.375rem;
-    background-size:cover;
-
-    
+header a img{
+    border-radius: 2rem;
+    width: 6rem;
+    height: 6rem; 
 }
 
