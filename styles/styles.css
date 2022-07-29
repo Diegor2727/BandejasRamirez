@@ -11,11 +11,6 @@ header, section, footer {
      }
 
 
-body {
-    font-family: Helvetica, Arial, sans-serif;
-    background-image: url("../assets/fondo.png");
-    background-size: cover;
-    }
 
 h1{
     color:rgb(38, 0, 255); 
@@ -82,7 +77,10 @@ footer {
         margin-left: 2.5rem;
         }
 
-
+footer ul li a img{
+    width: 1.5em;
+    display: flex;
+}
 
 form{
     width: 75%;
