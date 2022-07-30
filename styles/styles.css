@@ -3,20 +3,6 @@
     padding: 0; 
 }
 
-header, section, footer {
-    background: rgb(221, 201, 240);
-    background-image: linear-gradient(-45deg, #bd73ee, rgb(221, 201, 240), rgb(241, 159, 121));
-    border: solid rgb(235, 233, 129) 0.25rem;
-    border-radius: 0.938rem;
-     }
-
-
-
-h1{
-    color:rgb(38, 0, 255); 
-    font-size: 1.875rem;
-    text-align: center;
-}
 
 .animacion{
     animation-duration: 1s;
@@ -32,6 +18,8 @@ h1{
         opacity: 1;
     }
 }
+
+
 
 p{
     color:blueviolet; 
