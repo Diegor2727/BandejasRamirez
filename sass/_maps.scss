@@ -11,14 +11,16 @@
 
 article{
     padding: 0.313rem;
-    background-color: map-get($estilos, colorfondo);
     border-radius: 0.938rem;
+    color: map-get($estilos, colorfuente);
 }
 
 h1{
     color:map-get($estilos, colortitulo); 
     font-size: map-get($estilos, tFuente);
-    text-align: map-get($estilos, centro);
+    text-align: map-get($estilos, alineacion);
+    font-style: italic;
+        
 }
 
 h2{

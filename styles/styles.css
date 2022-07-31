@@ -5,7 +5,7 @@
 
 
 .animacion{
-    animation-duration: 1s;
+    animation-duration: 1.5s;
     animation-name: aparece;
     animation-iteration-count: infinite;
 }
@@ -20,11 +20,6 @@
 }
 
 
-
-p{
-    color: #663f61; 
-    font-size: 15px;
-}
 
 section {
     padding: 50px 30px 20px 60px;
@@ -46,18 +41,6 @@ header {
         justify-content: center;
         }
     
-section article {
-    padding: 5px;
-    background-color: #f4b5b5;
-    border-radius: 0.938rem;
-    }
-
-    
-    
-section article p {
-    line-height: 1.25rem;
-    }
-
 
 
 footer {
@@ -78,20 +61,22 @@ form{
 }
 
 section div a img{
-    border-radius: 0.25rem;
-    border: solid rgb(222, 135, 240) 5px;
+    border-radius: 0.5rem;
+    border: solid #663f61 0.3rem;
 }
 
-section div a img {
-    border-radius: 0.25rem;
-    
-}
+
 
 
 .videoinicio{
     display: flex;
     justify-content: center;
-    
+  
+}
+
+video{
+    border: solid 0.25rem #663f61;
+    border-radius: 0.25rem;
 }
 
 .galeriaImagenes a img:hover{
@@ -101,8 +86,10 @@ section div a img {
 }
 
 .carousel-inner img{
-    width: 12.5rem;
-    height: 25rem;
+    height: 30rem;
+    border: solid 0.35rem #663f61;
+    border-radius: 0.5rem;
+    
 }
 
 
