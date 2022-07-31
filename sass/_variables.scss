@@ -4,7 +4,7 @@ $imagenfondo: url("../assets/fondo.png");
 
 //fuentes
 $fuenteprimaria: cambria, Helvetica, Arial, sans-serif;
-$coltitulos: red;
+
 
 //media queris
 $tablet: 768px;
@@ -14,10 +14,8 @@ $desktop: 992 px;
 $estilos: (
     color: blueviolet,
     colorfondo: #f4b5b5,
-    colortitulo: blueviolet,
+    colortitulo: #663f61,
     centro: center,
     tFuente: 4rem
     );
 
-//celular de contacto
-$contactowhatsapp: "https://wa.me/+5493795193874";

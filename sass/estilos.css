@@ -4,8 +4,8 @@
   display: flex;
   gap: 1.25rem;
   flex-direction: column;
-  color: blueviolet;
-  text-align: center;
+  color: #663f61;
+  text-align: start;
 }
 
 article {
@@ -15,13 +15,13 @@ article {
 }
 
 h1 {
-  color: blueviolet;
+  color: #663f61;
   font-size: 4rem;
   text-align: center;
 }
 
 h2 {
-  color: blueviolet;
+  color: #663f61;
 }
 
 .contenedorbotones {
