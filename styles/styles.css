@@ -87,6 +87,13 @@ section div a img {
     
 }
 
+
+.videoinicio{
+    display: flex;
+    justify-content: center;
+    
+}
+
 .galeriaImagenes a img:hover{
     transform: scale(1.2) ;
     transition: all 1s;
